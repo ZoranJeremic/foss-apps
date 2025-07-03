@@ -13,7 +13,7 @@
             "description": "⚡Actively protect your data. Private search, browser, ad blocking, VPN & more",
             "source": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android",
             "fdroid": "https://f-droid.org/packages/com.duckduckgo.mobile.android/",
-            "playstore": ""https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android",
+            "playstore": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android",
         }, 
         {
             "name": "IceRaven",
